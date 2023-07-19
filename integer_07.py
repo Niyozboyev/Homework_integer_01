@@ -1,3 +1,4 @@
 a=int(input())
-b=int(input())
-print(a+b, a*b)
+x=a%10
+y=a//10
+print(x+y, x*y)
